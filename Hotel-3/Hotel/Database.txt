@@ -1,0 +1,16 @@
+74, snookie, 34, Single, 1, 1, Debit, Visa
+10, sam, 34, Single, 1, 1, Debit, Visa
+2, kyle, 23, Single, 1, 1, Debit, Visa
+84, vinne, 23,Quad, 1, 1, Debit, Visa
+
+34, red, 3, Double, 1, 1, Debit, Visa
+79, lik, 32, Single, 1, 1, Debit, Visa
+81, io, 32, Single, 1, 1, Debit, Visa
+97, tie, 3, Single, 1, 1, Debit, Visa
+45, tuef, 32, Single, 1, 1, Debit, Visa
+66, yoi, 20, Single, 1, 1, Debit, Visa
+71, dean, 23, Single, 1, 1, Debit, Visa
+22, rese, 32, Single, 1, 1, Debit, Visa
+72, ron, 45,Single, 1, 1, Debit, Visa
+83, tim, 54,Double, 1, 1, Debit, Visa
+100, , , Single, 1, 1, Debit, Visa

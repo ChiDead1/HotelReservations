@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button_cl
+comment1.params=
+comment1.target=void\ Butoon_mt()
+comment2.params=E
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
